@@ -1,6 +1,6 @@
 {
-	"database-id": "169b6e632b7448529120599281265ac5",
-	"author": "",
+	"database-id": "bdca73394166433e8393e6141578f63c",
+	"author": "Aram",
 	"public-ga-tracking-id": "",
 	"google-search-console-html-tag": "",
 	"socials": {
@@ -15,12 +15,12 @@
 		"instagram": "",
 		"mastodon": "",
 		"calendar": "",
-		"this-github-repo": "https://github.com/nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog"
+		"this-github-repo": "https://github.com/AramMolins/prova-webtrotion"
 	},
 	"custom-domain": "",
 	"base-path": "",
 	"giscus": {
-		"data-repo": "nerdymomocat-templates/webtrotion-astro-notion-cms-website-blog",
+		"data-repo": "",
 		"data-repo-id": "R_kgDOK0FuUA",
 		"data-category": "Announcements",
 		"data-category-id": "DIC_kwDOK0FuUM4CbZ5A",
